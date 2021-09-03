@@ -28,13 +28,16 @@ body {
   height: 70px;
   left: 15px;
 }
+
 section {
   white-space: nowrap;
 }
+
 #form-section {
   text-align: center;
   margin-top: 500px;
 }
+
 #video-section {
   align-content: center;
   margin-left: 30%;
